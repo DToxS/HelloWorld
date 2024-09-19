@@ -19,3 +19,7 @@ Hello World from linux!
 **Environment**
 
 *Bash* command interpretor and `uname` command are required for running this script.
+
+**Plan**
+
+Future development will make this script compatible with multiple systems.
