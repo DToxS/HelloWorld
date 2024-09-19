@@ -8,6 +8,18 @@ This is a hello-world shell script developed in *Bash*.
 ./helloworld.sh
 ```
 
+**Output**
+
+The output message from this script looks like the following:
+
+```
+Hello World from linux!
+```
+
 **Environment**
 
-*Bash* command interpretor is required for running this script.
+*Bash* command interpretor and `uname` command are required for running this script.
+
+**Plan**
+
+Future development will make this script compatible with multiple systems.
