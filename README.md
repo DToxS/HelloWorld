@@ -26,4 +26,4 @@ Future development will make this script compatible with multiple systems.
 
 **Note**
 
-This is for team use.
+This is for team and private use.
