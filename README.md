@@ -24,6 +24,10 @@ Hello World from linux!
 
 Future development will make this script compatible with multiple systems.
 
+**License**
+
+*Commercial*
+
 **Note**
 
 This is for team and private use.
